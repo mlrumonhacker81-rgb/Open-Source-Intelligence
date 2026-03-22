@@ -18,8 +18,7 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 
 # গিটহাব থেকে টুলটি ক্লোন করুন (আপনার লিঙ্কটি এখানে দিন)
-git clone [https://github.com/আপনার-ইউজারনেম/Advanced-OSINT-Tracker.git](https://github.com/mlrumonhacker81-rgb/Open-Source-Intelligence)
-
+git clonehttps://github.com/mlrumonhacker81-rgb/Open-Source-Intelligence
 # টুলস ফোল্ডারে প্রবেশ করুন
 cd Advanced-OSINT-Tracker
 
